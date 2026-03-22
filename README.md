@@ -55,17 +55,6 @@ XGBoost
 
 Streamlit
 
-# Steps to run the Project:
-1️.Clone the Repository
-git clone https://github.com/your-username/phishing-website-detection.git
-cd phishing-website-detection
-2️. Install Dependencies
-pip install -r requirements.txt
-3️. Train the Model
-python main.py
-4️. Run the Web App
-python -m streamlit run app/app.py
-
 # Limitations
 
 Uses limited URL-based features
