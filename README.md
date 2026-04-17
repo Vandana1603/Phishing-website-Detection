@@ -64,8 +64,6 @@ May not detect highly advanced phishing attacks
 # Screenshots
 <img width="450" height="450" alt="Screenshot 2026-03-19 222010" src="https://github.com/user-attachments/assets/0bdc06dc-6455-4982-a72a-c4bf984a8ace" />
 <img width="450" height="450" alt="Screenshot 2026-03-19 222015" src="https://github.com/user-attachments/assets/fee87985-9d65-48c4-917a-00b9504ff8c1" />
-<img width="450" height="450" alt="Screenshot 2026-03-19 222030" src="https://github.com/user-attachments/assets/3cba32e5-9449-4acf-bd90-1a37c452883b" />
-<img width="450" height="450" alt="Screenshot 2026-03-19 222052" src="https://github.com/user-attachments/assets/762dcd64-67dd-46a0-9270-951567aac512" />
 
 
 
