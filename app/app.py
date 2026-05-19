@@ -49,7 +49,7 @@ if st.button("Predict"):
    
         proba = model.predict_proba(features)[0][1]
 
-        st.write(f"🔍 Phishing Probability: {proba:.2f}")
+        st.write(f" Phishing Probability: {proba:.2f}")
 
         if prediction == 1:
             st.error(" Phishing Website")
